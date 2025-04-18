@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select programming language:</string>
+    <string name="empty"/>
+    <string-array name="language_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Scala</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>Swift</item>
+        <item>Go</item>
+        <item>Rust</item>
+        <item>SQL</item>
+        <item>Pascal</item>
+        <item>Lua</item>
+    </string-array>
+</resources>
